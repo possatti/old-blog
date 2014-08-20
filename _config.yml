@@ -9,9 +9,8 @@ url:              http://lucas.possatti.com.br
 # Owner/author information
 owner:
   name:           Lucas Possatti
-  avatar:         avatar.jpg#avatar.jpg
+  avatar:         avatar.jpg
   bio:            "Sou um estudante cursando a faculdade de Sistemas de Informação, e apaixonado por novas tecnologias."
-  #bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          lucas_possatti@hotmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
