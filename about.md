@@ -4,10 +4,10 @@ permalink: /about/
 title: "Sobre mim"
 description: "Uma pequena descrição sobre mim"
 image:
-  background: witewall_3.png
+  background: triangular.png
 ---
 
-Olá. Sou Lucas Possatti. E atualmente sou um estudante cursando Sistemas de Informação no Instituto Federal do Espírito Santo. Através desse meu curso ganhei a oportunidade de estudar muitos assuntos que me interessam e que persigo com muita curiosidade.
+Meu nome é Lucas Possatti. Atualmente sou um estudante cursando Sistemas de Informação no Instituto Federal do Espírito Santo (IFES). Através desse meu curso ganhei a oportunidade de estudar muitos assuntos que me interessam e que persigo com muita paixão.
 
 Sou particularmente interessado em desenvolvimento web e as tecnologias envolvidas. Algumas das minhas paixões são: [Python][python], [Git][git] e [Github][github]. E gosto sempre de experimentar tecnologias novas, como: [NodeJS][nodejs], [AngularJS][angularjs]. E tecnologias que fujam do que é usual, como: [Lisp][lisp] e [Perl][perl]. Isso, por curiosidade e também como hobbie. E acredito que isso me traz um ponto de vista equilibrado sobre diferentes assuntos.
 
